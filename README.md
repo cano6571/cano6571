@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Mauricio | Systems Student
 
-<!--
-**cano6571/cano6571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Developer in progress  
+🚀 Focused on learning by building real projects  
 
-Here are some ideas to get you started:
+## 🧠 Profile
+Motivated student with knowledge of Git, Linux, and basic web development.  
+Interested in gaining experience and contributing to real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Version Control: Git, GitHub  
+- OS: Linux (Debian)  
+- Web: HTML, CSS  
+
+## 📂 Projects
+- Sales system (accounting-based project)  
+- Version control practice  
+
+## 📫 Contact
+- Email: canomauricio630@gmail.conm 
